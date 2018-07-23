@@ -42,7 +42,7 @@ and executed
 
 # Installation
 
-1. make a direction
+1. make a directory
 2. add all the files to it
 3. launch a local http server from that directory
 
